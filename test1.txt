@@ -6,3 +6,4 @@ Skills: Backend Development laguage
 Year of addmission: 2019
 Graduation year: 2024
 Student
+Image alignment is centered
